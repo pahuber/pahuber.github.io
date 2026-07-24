@@ -1,0 +1,13 @@
+{
+  "name": "Philipp A. Huber — Personal Website",
+  "short_name": "Philipp Huber",
+  "description": "Personal academic website of Philipp A. Huber, PhD student at ETH Zurich.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    { "src": "favicon-pale-blue-dot.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "favicon-earth.png", "sizes": "1254x1254", "type": "image/png", "purpose": "any" }
+  ]
+}
